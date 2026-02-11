@@ -160,7 +160,7 @@ function simpleLoader()
 {
   loader.style.bottom = "100%";
 }
-setTimeout(simpleLoader,1000);
+setTimeout(simpleLoader,5000);
 
 /* Anchor element animation */
 function smoothScrollTo(target, duration) { // duration in ms

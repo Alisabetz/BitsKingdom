@@ -339,6 +339,7 @@
   #benefits_title {
     width: auto;
     margin: 30px auto;
+    padding: 0px 30px;
   }
   #benefits_title p {
     color: #d600a7;
